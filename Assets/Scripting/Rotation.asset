@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Rotation
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Rotate
+      the Cube","summary":"Make thecube rortate\t","pan":{"x":240.0,"y":-437.2755},"zoom":1.0,"elements":[{"chainable":false,"parameterNames":["xAngle","yAngle","zAngle","relativeTo"],"member":{"name":"Rotate","parameterTypes":["System.Single","System.Single","System.Single","UnityEngine.Space"],"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null,"%xAngle":{"$content":0.1,"$type":"System.Single"},"%yAngle":{"$content":0.2,"$type":"System.Single"},"%zAngle":{"$content":0.3,"$type":"System.Single"},"%relativeTo":{"$content":"World","$type":"UnityEngine.Space"}},"position":{"x":286.0,"y":-489.0},"guid":"ae07cb50-cc17-44c2-85d1-460cbebc1f35","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"9"},{"coroutine":false,"defaultValues":{},"position":{"x":17.0,"y":-486.0},"guid":"c3bb04f6-8b0a-46ca-ac40-faa9912ef37b","$version":"A","$type":"Unity.VisualScripting.Update","$id":"13"},{"sourceUnit":{"$ref":"13"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"enter","guid":"81dc7879-d082-4d5b-8216-27986a71d767","$type":"Unity.VisualScripting.ControlConnection"},{"position":{"xMin":357.8775,"yMin":-568.551,"xMax":430.1224,"yMax":-504.551},"label":"Group","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"868e51aa-3658-4642-b19c-f0fb6723929c","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []
