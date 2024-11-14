@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 672aafa604c2479ff36e7a0b
+  sku: 67367962c6f66862305dca3d
   packageName: JumpFly
   thumbnail: {fileID: 2800000, guid: 3ef6adbd01a374648b5e966f6c9492bb, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
