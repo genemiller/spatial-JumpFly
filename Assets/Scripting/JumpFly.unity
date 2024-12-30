@@ -417,10 +417,32 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5637523935527779440, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"jumpSound","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"landSound","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637523935527779440, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637523935527779440, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7113327020485842340, guid: d401027ae619844048d3afd7befd3f17,
         type: 3}
       propertyPath: m_Name
       value: JumpFly
+      objectReference: {fileID: 0}
+    - target: {fileID: 7330343705445384851, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7618341547450972312, guid: d401027ae619844048d3afd7befd3f17,
         type: 3}
@@ -428,12 +450,22 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 24300002, guid: 0461beb79fbfa4735867cac3f1f81cd2,
         type: 2}
+    - target: {fileID: 7618341547450972313, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7618341549109574269, guid: d401027ae619844048d3afd7befd3f17,
         type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
       objectReference: {fileID: 24300002, guid: 0461beb79fbfa4735867cac3f1f81cd2,
         type: 2}
+    - target: {fileID: 7618341549109574270, guid: d401027ae619844048d3afd7befd3f17,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d401027ae619844048d3afd7befd3f17, type: 3}
 --- !u!1 &705507993

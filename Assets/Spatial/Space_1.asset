@@ -21,7 +21,9 @@ MonoBehaviour:
   worldID: y5nt6p21k6vj2wo4orjh5
   scene: {fileID: 102900000, guid: 3eba8f5ab9e8d40e0a7ff8218e969bf5, type: 3}
   csharpAssembly: {fileID: 0}
-  embeddedPackageAssets: []
+  embeddedPackageAssets:
+  - id: 1
+    asset: {fileID: 7404241351528214914, guid: cea57593e01864c419164ed4712d60a3, type: 3}
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
